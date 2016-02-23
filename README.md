@@ -1,2 +1,5 @@
 # hello-world
-breaking the ice
+
+Hello,
+
+This is my first Github commit.
